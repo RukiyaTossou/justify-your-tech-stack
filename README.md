@@ -16,9 +16,9 @@
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
 **2. Developer Experience (DX)**
    - **Gemakkelijk te Leren en Duidelijke Documentatie:**  Next.js bouwt voort op React, een populair framework, en heeft goede documentatie. 
-   - ** Betrouwbaarheid en Updates:** Next.js heeft een groot team achter zich, wordt ondersteund door het bedrijf Vercel, en heeft een actieve community. Dit betekent dat bugs snel worden opgelost en dat er regelmatig verbeteringen komen. 
+   - **Betrouwbaarheid en Updates:** Next.js heeft een groot team achter zich, wordt ondersteund door het bedrijf Vercel, en heeft een actieve community. Dit betekent dat bugs snel worden opgelost en dat er regelmatig verbeteringen komen. 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
-**3. Content Management eXperience (CX) **
+**3. Content Management eXperience (CX)**
 <!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
 
 >
